@@ -1,2 +1,1 @@
-# initiation-angular
-Angular | Développement frontend
+# Angular | Développement frontend en Javascript/Typescript
