@@ -6,7 +6,7 @@ Kevin Doolaeghe
 
 ## References
 
-* [Angular official website]()
+* [Angular official website](https://angular.io/)
 * [Mosh Hamedani | Angular tutorial video](https://www.youtube.com/watch?v=k5E2AVpwsko&t=630s)
 
 ## Setup development environment
