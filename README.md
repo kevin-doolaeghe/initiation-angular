@@ -17,6 +17,13 @@ sudo apt update
 sudo apt install nodejs npm
 ```
 
+* Update `nodejs` :
+```
+sudo npm cache clean -f
+sudo npm install -g n
+sudo n stable
+```
+
 * Check `nodejs` version to see if it can support Angular :
 ```
 node --version
