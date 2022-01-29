@@ -57,3 +57,19 @@ ng serve
 ```
 
 * Check `localhost:8000` address on a web browser to verify that the application works properly
+
+## Angular app architecture
+
+- Component : Parts of a structured view
+- Module : Logical links between components
+- Service : Logic used to produce a specific job (e.g. consume HTTP endpoints)
+
+* Add a new component : 
+```
+ng g c <component>
+```
+
+* Add a new service :
+```
+ng g s <service>
+```
