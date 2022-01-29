@@ -1,0 +1,10 @@
+<h2>{{ title }}</h2>
+<ul>
+    <!--
+        foreach loop
+        '*' is used when the directive modify the DOM
+    -->
+    <li *ngFor="let course of courses">
+        {{ course }}
+    </li>
+</ul>
